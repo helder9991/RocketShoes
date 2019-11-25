@@ -1,5 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 
+// Importação do CSS do React Toastify
+import 'react-toastify/dist/ReactToastify.css';
+
 // Importação do fundo
 import background from '../assets/images/background.svg';
 
